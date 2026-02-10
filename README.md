@@ -1,7 +1,4 @@
 # Ilya Waywell 😎 
-I like maths a lot.
-And also when you mix it with computers.
-
 ### Projects
 Solo: <br>
 All of my solo ones are private. <br>
@@ -9,12 +6,6 @@ All of my solo ones are private. <br>
 Group: <br>
 D.O.M: https://github.com/b3nb07/Datasets_and_Object_Manipulation-D.O.M. <br>
 Gamejam Winner: https://github.com/DaDude03/GameJam <br>
-
-
-### Current interests
-Rust (the programming language) <br>
-Model Checking <br>
-Maps (physical)
 
 <!--
 **iWaywell/iWaywell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
