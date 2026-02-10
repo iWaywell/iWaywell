@@ -1,4 +1,13 @@
-## Hi there 👋
+# Ilya Waywell 😎 
+I like maths a lot.
+And also when you mix it with computers.
+
+### Projects
+All of my solo ones are private (no peeking)
+
+D.O.M: https://github.com/b3nb07/Datasets_and_Object_Manipulation-D.O.M.
+Gamejam Winner: https://github.com/DaDude03/GameJam
+
 
 <!--
 **iWaywell/iWaywell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
